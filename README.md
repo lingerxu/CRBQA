@@ -1,4 +1,4 @@
-# CRBQA
+# Cross Recurrence Block Quantification Analysis
 
 This repository contains the source code and documents for Cross Recurrence Block Quantification Analysis developed by Tian Linger Xu. 
 
